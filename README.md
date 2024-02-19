@@ -1,4 +1,4 @@
-[![MasterHead](https://media.giphy.com/media/QXwtfadqo7wbfmT46H/giphy.gif?cid=ecf05e47j4y8bftvie5q8bg7frhqpvus4imzxk2y9r2uelzl&ep=v1_gifs_search&rid=giphy.gif&ct=g)](https://rishavchanda.io)
+
 <h1 align="center">Hi 👋, I'm Mo_Emad</h1>
 <h3 align="center">Just Student</h3>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/QDjpIL6oNCVZ4qzGs7/giphy.gif?cid=ecf05e47ot54q1obvd9d8s7ibw8lpkrzbwpwj10bckpjasov&ep=v1_gifs_search&rid=giphy.gif&ct=g">
